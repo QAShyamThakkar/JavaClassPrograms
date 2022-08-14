@@ -1,0 +1,13 @@
+Home Assignment
+
+1.	Food menu:   Input can be any number from 1-5
+i.	 input is 1 -> print Fries
+ii.	input is 2 -> print Pizza
+iii.	input is 3 -> print Ice cream
+iv.	input is 4 -> print coke
+v.	input is 5 -> print cake
+
+2. Print the gender:
+i.	Input can 'M' or 'm' -> Print male
+ii.	Input can 'F' or 'f' -> Print female
+

@@ -1,0 +1,15 @@
+Home assignment:
+
+1 Take two variables "x" and "y" with values 20 and 10 respectively. 
+ (Initialize )
+
+2 Do all arithmetic operations on "x" and "y" and print the output.  
+(Example:  int result = x+y; System.out.println(result); )
+
+3 Do all comparison operations on "x" and "y" and print the output.  
+(Example:   boolean result = x < y; System.out.println(result); )
+
+4 Assign value 40 to variable "x".    
+(Assignment operator)
+
+5 Try modulus of 5  with few numbers.

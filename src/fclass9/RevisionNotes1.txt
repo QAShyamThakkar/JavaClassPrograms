@@ -1,0 +1,26 @@
+1. Data types-> int, long,float,double, char, String, boolean
+2. Variables & Identifiers (a-z,A-Z,0-9,$,__) 
+3. Operators
+	Assignment operator -> =
+	Arithmetic operators -> +,-,*,/,%
+	Comparison operators -> ==, >,<,>=,<=,!=
+	Logical operators -> &&, || , !
+4. If, If -else, 
+	if(condition){
+		//only if the condition is true then only if will be executed
+	}
+	else{
+
+	}
+
+5. Ladder If else (Multiple conditions) if(), else if()...., else
+6. Nested if
+	if(condition1){  //if outer condition is true then check for inner conditio
+		if(condition2){
+		}
+	}
+7. Switch 
+8. Type casting
+	Implicit -> small to big
+	Explicit -> big to small int a = (int)d
+9. Increment/decrement -> Preincrement (++a) and PsotIncreement (a++)

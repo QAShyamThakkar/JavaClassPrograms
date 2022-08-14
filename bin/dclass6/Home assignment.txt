@@ -1,0 +1,28 @@
+Home Assignment: Do using if else ladder
+1.	Write a Java program to find max of two numbers. (Example 20 and 40, so 40 is max number)
+2.	Write a Java program to check if number is divisible by 2 (Example 20 is divisible by 2, 45 is not divisible by 2)
+3.	Take input as num which can have any value . 1-Jan,2-Feb,3-Mar,4-Apr.......12-Dec . Based on the input print the number of days in that month
+i.	If input 1 -> days are 31
+ii.	If input 2 -> Days are 28
+iii.	If input 3 -> days are 31
+iv.	If input 4 -> days are 30         do for all till December.
+4. As activity directory at Lake Weekend Resort, it is your job to suggest appropriate activities to guests based on the weather:
+i.	temp < 40: skiing
+ii.	temp < 60: golf
+iii.	temp < 80: tennis
+iv.	temp >= 80: swimming
+
+HINT : Pay attention at the sequence of the conditions. Try to with different values of temperature and see what output you are getting.
+5. Write a Java code to display correct result.
+•	If Gym is open and
+•	if user has membership .
+•	Both true -> "User can use Gym" ,
+•	No membership -> " User has no membership"
+•	"Gym is closed"
+1.	Write a Java code to display correct result
+   // if restaurantIsOpen == true
+          // if orderIsReady == true
+                  // Print Food is ready
+        // else print Please wait for order to be ready
+    // else print restaurant is closed (edited) 
+

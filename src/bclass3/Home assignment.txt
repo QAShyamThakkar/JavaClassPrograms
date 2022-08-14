@@ -1,0 +1,16 @@
+Home assignment:
+Write Java code for the following:
+1.	Take two Strings "firstname" and "lastname" and give value as your firstname and lastname.  Use String concatenation to print your full name ( firstname and lastname).
+
+2.	Take two variables "x" and "y" with values 10 and 20 respectively and try
+=	firstname + x + y
+=	x - y +y
+=	x + lastname
+=	y % x + firstname
+=	x - y + lastname
+
+3.	Print "I am practicing Java" . If I understand then "I will practice more" .
+
+4.	If price is greater than or equal to 100 then "I will purchase" else Print "Happy Shopping"
+
+5.	Take two variables "x" and "y" with values 10 and 20 respectively. Check if x is less than y. Try with other values of x and y.
